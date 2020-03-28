@@ -1,0 +1,14 @@
+{
+    "default": "1671_petit_histoire_royaumont",
+    "books": [
+        ["1671_petit_histoire_royaumont", "L’Histoire du Vieux et du Nouveau Testament (1671)"]
+    ],
+    "folders": {
+        "1671_petit_histoire_royaumont":
+        ["L’Histoire du Vieux et du Nouveau Testament, représentée avec des figures & des Explications édifiantes, tirées des saint Pères […] Par le Sieur de Royaumont, Prieur de Sombreval (Source: BnF/Gallica, ark:bpt6k1519024v)",
+            "Paris, Pierre Le Petit", 1671,
+            "https://gallica.bnf.fr/ark:/12148/bpt6k1519024v", {
+
+        }]
+    }
+}
