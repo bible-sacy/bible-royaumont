@@ -1,4 +1,4 @@
-# [Bible de Royaumont (par Nicolas Fontaine), ou *L’Histoire du Vieux et du Nouveau Testament, représentée avec des figures & des Explications édifiantes, tirées des saint Pères, par le Sieur de Royaumont, Prieur de Sombreval*](https://royaumont.sacy.be/)
+# [Bible de Royaumont (par Nicolas Fontaine), ou *L’Histoire du Vieux et du Nouveau Testament, représentée avec des figures & des Explications édifiantes, tirées des saint Pères, par le Sieur de Royaumont, Prieur de Sombreval*.](https://royaumont.sacy.be/)
 
 ## Conditions d’utilisation
 
