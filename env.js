@@ -53,6 +53,7 @@ const UI_ENV = {
     bookSelectorLabel: 'Éd.',
     chapterSelectorLabel: 'Part.',
     sites,
+    footerText: "Source gallica.bnf.fr / Bibliothèque nationale de France",
     links: [
         {
             title: 'Remarque, erreur ? contact@sacy.be',
